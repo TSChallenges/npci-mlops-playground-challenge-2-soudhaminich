@@ -24,8 +24,20 @@ Participants are required to:
 
 ## Instructions
 
+ - Utilize Visual Studio Code (VS Code) on your local system or set up Codespaces as your development environment.
+
+- Prepare individually in advance to understand the task and gather necessary resources.
+
+- Work collaboratively with your team members in assigned Zoom breakout rooms. (The team will be the same as grouped for playground challenge 1)
+
+- Reach out to the instructor if you have any questions or encounter difficulties.
+
+- Present your team’s solution to the instructor once completed.
+
+## Steps to complete: 
+
 ### Step 1: Understand the model 
-1. understand the  bike_rental_count_prediction notebook
+1. Understand the  bike_rental_count_prediction notebook
 
 
 ### Step 2: Implement the Gradio UI (`app.py`)
@@ -48,4 +60,8 @@ Participants are required to:
 ### Step 5: Build and Run the Docker Container
 1. Build the Docker image
 2. Run the Docker container
+
+
+
+
 
