@@ -1,0 +1,2 @@
+"Season (1: Spring, 2: Summer, 3: Fall, 4: Winter)",Hour (0-23),"Holiday (0: No, 1: Yes)","Working Day (0: No, 1: Yes)",Weather (1-4),Temperature (normalized),Feels-like Temperature (normalized),Humidity (normalized),Wind Speed (normalized),"Year (0: 2011, 1: 2012)",Month (1-12),Friday (0 or 1),Monday (0 or 1),Saturday (0 or 1),Sunday (0 or 1),Thursday (0 or 1),Tuesday (0 or 1),Wednesday (0 or 1),output,timestamp
+1,20,1,0,2,22,19,75,27.9,0,2,1,0,0,0,0,0,0,Predicted Bike Rentals: 559,2025-03-30 10:40:24.288915
