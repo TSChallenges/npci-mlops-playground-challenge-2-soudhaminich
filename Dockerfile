@@ -9,6 +9,7 @@ COPY requirements.txt .
 COPY random_forest_model.pkl .
 COPY app.py .
 
+
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
@@ -16,4 +17,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 7860
 
 # Run the application
-CMD ["python", "app.py"]
+CMD ["python3", "app.py"]
