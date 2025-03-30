@@ -41,4 +41,5 @@ inputs = [
 ]
 
 app = gr.Interface(fn=predict_bike_rental, inputs=inputs, outputs="text", title="Bike Rental Prediction")
-app.launch()
+app.launch(server_name="0.0.0.0", server_port=7860)
+
